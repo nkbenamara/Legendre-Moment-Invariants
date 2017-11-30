@@ -1,4 +1,3 @@
-import cv2 as cv
 import numpy as np
 from math import factorial,pow
 
