@@ -1,4 +1,5 @@
 # Legendre-Moment-Invariants
-Legendre Moment Invariants
 
-LMI calculation python code for image processing
+python code for image processing
+
+approximated LMI calculation using zeroth-order approximation (ZOA) 
