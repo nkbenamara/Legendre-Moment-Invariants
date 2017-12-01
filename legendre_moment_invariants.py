@@ -18,7 +18,7 @@ def PolyLMI(d,v):
 def LegendreMomentInvariants(image,m,n):
     LMI_moment=[]
     M,N=np.shape(image)
-    d=(M-1)*(N-1)
+    d=M*N
     for s in range(0,m+1):
         for t in range(0,n+1):
             norm = ((2 * s + 1) * (2 * t + 1)) /d
