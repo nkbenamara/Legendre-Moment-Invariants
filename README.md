@@ -10,7 +10,6 @@ approximated LMI calculation using zeroth-order approximation (ZOA)
 
 ```
 pip install numpy
-pip install cv2
 ```
 ### Calculate LMI
 import on your code the lmi function
