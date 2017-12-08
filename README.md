@@ -15,6 +15,7 @@ pip install numpy
 import on your code the lmi function
 ```
 from legendre_moment_invariants import LegendreMomentInvariants
+import numpy as np
 ```
 input your image and (n,m) decomposition degrees
 ```
